@@ -1,0 +1,6 @@
+{
+  "name": "codairs-heroku",
+  "description": "Middleware for codairs on heroku",
+  "repository": "https://github.com/Ryce/codairs-heroku",
+  "keywords": ["codairs"]
+}
